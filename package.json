@@ -2,7 +2,6 @@
   "name": "coze-bot-website",
   "version": "1.0.0",
   "description": "扣子智能体独立网站",
-  "type": "module",
   "dependencies": {
     "node-fetch": "^2.7.0"
   }
